@@ -1,0 +1,7 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <name>PDI 1 - DB1 Fabricio Noda</name>
+    <groupId>br.com.fabricionoda.pdi1-db1</groupId>
+    <artifactId>pdi1-db1</artifactId>
+    <version>0.1.0</version>
+</project>
